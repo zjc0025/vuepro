@@ -54,7 +54,7 @@ li{
 }
 
 #app {
-  background-image:url(./576df1167c887_1024.jpg);
+  background-image:url(imgs/576df1167c887_1024.jpg);
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
